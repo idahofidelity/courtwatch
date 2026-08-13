@@ -1,7 +1,6 @@
 # Idaho Courtwatch
 
-**Idaho Fidelity Foundation** · Post Falls, ID  
-Builder: [Sean Evans](https://github.com/idahofidelity)
+**Idaho Fidelity Foundation**
 
 A statewide rating system for Idaho judges, built from **public court records**, so voters can see where each judge is consistently strong and where the record is weak — by issue area, not by party label or news cycle.
 
@@ -31,7 +30,7 @@ This is a **fact-first civic tool**, not an advocacy score. Categories and metho
 - Unvalidated judge scores
 - Collector credentials and portal session files
 
-Those stay private until they are cleaned and the scoring methodology is locked. If you are a hiring manager and want a walkthrough of the pipeline or a redacted sample, email **therealduffmansean@gmail.com**.
+Those stay private until they are cleaned and the scoring methodology is locked.
 
 ## Related public work
 
